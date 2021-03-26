@@ -1,6 +1,7 @@
 ---
-title: Connecting to GitHub with SSH
-intro: 'You can connect to {% data variables.product.product_name %} using SSH.'
+title: Yadiras Marriege Connecting to GitHub with SSH
+intro: Ms. Gaytan Mendoza & her beloved Tritan,
+Along with her Royal Family; Desiples.  'You can connect to {% data variables.product.product_name %} using SSH.'
 redirect_from:
   - /key-setup-redirect/
   - /linux-key-setup/
